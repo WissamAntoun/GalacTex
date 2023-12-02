@@ -1,4 +1,7 @@
 # GalacTex: Large Language Models for Overleaf
+
+<img src="./popup/GalacTex.png" alt="GalacTex popup" width="80" align="left"/>
+
 This Chrome extension adds the power of large-language models (LLMs) to Overleaf through a Chrome extension and a self-hosted server running the [Galactica](https://github.com/paperswithcode/galai) LLM.
 
 The extension originated from [GPT4Overleaf](https://github.com/e3ntity/gpt4overleaf) and [LeafLLM](https://github.com/bThink-BGU/LeafLLM).
