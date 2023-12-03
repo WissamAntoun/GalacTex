@@ -13,7 +13,7 @@ The extension originated from [GPT4Overleaf](https://github.com/e3ntity/gpt4over
 ## Installation from Chrome Web Store (preferred option)
 Unless you are a developer, this is probably your preferred option.
 
-Just go to the [extension's page](https://chrome.google.com/webstore/detail/GalacTex/) in Chrome Web Store and press "Add to Chrome"
+Just go to the [extension's page](https://chromewebstore.google.com/detail/galactex/mkkbiefcllablljdpkmcgmjkikobemjb) in Chrome Web Store and press "Add to Chrome"
 
 ## Manual installation
 1. Clone the repository
