@@ -50,7 +50,6 @@ class CustomEndpoint {
     const endTime = performance.now();
     const elapsedTime = endTime - startTime;
 
-    log(`Result: ${JSON.stringify(result)}`)
     log(`Response Time: ${elapsedTime}ms`)
 
     return result.generated_text;
@@ -107,7 +106,6 @@ function getActiveLineIndex() {
 
 function getTextBeforeCursor() {
   var editorElement = document.querySelector('.cm-content');
-  log(`Editor element: ${editorElement}`)
   var activeLineIndex = getActiveLineIndex();
   log(`Active line: ${activeLineIndex}`)
   if (!activeLineIndex) {
